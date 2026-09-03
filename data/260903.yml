@@ -1,17 +1,19 @@
 about:
-  description: A user-friendly, lightweight TUI for disk imaging
+  description:
+  |
+    A user-friendly, lightweight TUI for disk imaging
   license: GPL-3.0
   homepage: 
   head: 84ecaad
   archived: false
   latestVersion: v0.5.0
-  collectedAt: 2026-09-03T05:12:44Z
+  collectedAt: 2026-09-03T22:38:26Z
 timeline:
   created: 2023-03-01
   lastCommit: 2026-05-19
   lastRelease: 2026-05-21
 popularity:
-  star: 2288
+  star: 2291
   watcher: 12
   fork: 36
   release: 16
@@ -27,7 +29,7 @@ language:
   C: 1615
   Dockerfile: 259
   Makefile: 85
-totalLine: 317818
+totalBytes: 317818
 recent:
   last30d:
     since: 2026-08-04
