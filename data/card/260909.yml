@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: "v0.5.0-rc.2"
-  collectedAt: 2026-09-09T06:25:42Z
+  collectedAt: 2026-09-09T20:52:13Z
 timeline:
   created: 2023-03-01
   lastCommit: 2026-05-19
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-21
   lastPrerelease: 2026-05-12
 popularity:
-  star: 2305
+  star: 2308
   watcher: 12
   fork: 37
   release: 16
@@ -90,7 +90,7 @@ total:
   commit: 600
 ---
 path: /home/runner/.x-repo/github.com/ifd3f/caligula
-collectedAt: 2026-09-09T06:25:43Z
+collectedAt: 2026-09-09T20:52:17Z
 loc:
   Rust:
     code: 7254
