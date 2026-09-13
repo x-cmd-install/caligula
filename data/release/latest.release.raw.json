@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3278480,
       "digest": "sha256:5fef54f50b209ce0fcd6883432a2dd96119a211ef5f441902aa078719ae6ac28",
-      "download_count": 112,
+      "download_count": 113,
       "created_at": "2026-05-21T23:19:46Z",
       "updated_at": "2026-05-21T23:19:47Z",
       "browser_download_url": "https://github.com/ifd3f/caligula/releases/download/v0.5.0/caligula-aarch64-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3691032,
       "digest": "sha256:9dd0cea2080bfa51e5b9a50c8048632e9767c1b269784e6902663566f53dbf75",
-      "download_count": 479,
+      "download_count": 490,
       "created_at": "2026-05-21T23:19:47Z",
       "updated_at": "2026-05-21T23:19:48Z",
       "browser_download_url": "https://github.com/ifd3f/caligula/releases/download/v0.5.0/caligula-aarch64-linux"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3502804,
       "digest": "sha256:0e8528d6c4d375bf14cd3e8be3ab76b5cda9a464e9c39cc7f41769153f26ad29",
-      "download_count": 153,
+      "download_count": 155,
       "created_at": "2026-05-21T23:19:48Z",
       "updated_at": "2026-05-21T23:19:49Z",
       "browser_download_url": "https://github.com/ifd3f/caligula/releases/download/v0.5.0/caligula-x86_64-darwin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3904752,
       "digest": "sha256:470da9381d2ac44bbd54485ac8c8afcc23fd2aecbce98cd1aba815d1ef5ed3ed",
-      "download_count": 4731,
+      "download_count": 4836,
       "created_at": "2026-05-21T23:19:49Z",
       "updated_at": "2026-05-21T23:19:51Z",
       "browser_download_url": "https://github.com/ifd3f/caligula/releases/download/v0.5.0/caligula-x86_64-linux"
