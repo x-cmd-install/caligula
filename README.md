@@ -14,12 +14,12 @@ x install caligula
 
 ## Code insight
 
-Total: **8,625** lines of code across **107** files in the top 5 languages.
+Total: **8,808** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,254 | 181 | 1,265 | 74 |
-| Nix | 720 | 82 | 102 | 17 |
+| Rust | 7,431 | 192 | 1,298 | 76 |
+| Nix | 726 | 84 | 104 | 17 |
 | Python | 227 | 13 | 64 | 4 |
 | Sh | 138 | 15 | 46 | 10 |
 | ObjectiveC | 128 | 21 | 36 | 2 |
@@ -32,27 +32,27 @@ Total: **8,625** lines of code across **107** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-05-21)
-- **Last commit**: 2026-05-19
+- **Last commit**: 2026-09-16
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 2,324 · **Forks**: 37 · **Open issues**: 115 · **Contributors**: 10
+- **Stars**: 2,328 · **Forks**: 38 · **Open issues**: 115 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 151 · **Open PRs**: 2 · **Closed issues**: 63 · **Open issues**: 52 · **Commits**: 600
+- **Releases**: 16 · **Merged PRs**: 152 · **Open PRs**: 2 · **Closed issues**: 63 · **Open issues**: 52 · **Commits**: 613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last180d | 2026-03-19 | 3 | 32 | 2 | 5 | 21 | 186 |
-| 360d | 2025-09-20 | 5 | 45 | 2 | 8 | 24 | 211 |
-| last720d | 2024-09-25 | 6 | 69 | 2 | 22 | 37 | 311 |
+| 30d | 2026-08-17 | 0 | 1 | 1 | 0 | 2 | 12 |
+| last60d | 2026-07-18 | 0 | 1 | 1 | 0 | 3 | 12 |
+| 90d | 2026-06-18 | 0 | 1 | 1 | 0 | 3 | 12 |
+| last180d | 2026-03-20 | 3 | 33 | 2 | 5 | 21 | 198 |
+| 360d | 2025-09-21 | 5 | 46 | 2 | 8 | 24 | 223 |
+| last720d | 2024-09-26 | 6 | 70 | 2 | 22 | 37 | 324 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for caligula lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:51:09Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:48:13Z._
