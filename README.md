@@ -37,22 +37,22 @@ Total: **8,808** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,434 · **Forks**: 42 · **Open issues**: 116 · **Contributors**: 9
+- **Stars**: 2,435 · **Forks**: 43 · **Open issues**: 116 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 152 · **Open PRs**: 3 · **Closed issues**: 64 · **Open issues**: 52 · **Commits**: 613
+- **Releases**: 16 · **Merged PRs**: 152 · **Open PRs**: 4 · **Closed issues**: 64 · **Open issues**: 52 · **Commits**: 613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 1 | 1 | 1 | 1 | 5 |
-| 90d | 2026-08-08 | 0 | 1 | 2 | 1 | 2 | 12 |
-| last180d | 2026-05-10 | 2 | 12 | 2 | 1 | 7 | 62 |
-| 360d | 2025-11-11 | 3 | 37 | 3 | 8 | 22 | 207 |
-| last720d | 2024-11-16 | 6 | 66 | 3 | 23 | 37 | 321 |
+| 30d | 2026-10-08 | 0 | 0 | 2 | 1 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 1 | 2 | 1 | 1 | 5 |
+| 90d | 2026-08-09 | 0 | 1 | 3 | 1 | 2 | 12 |
+| last180d | 2026-05-11 | 2 | 12 | 3 | 1 | 7 | 62 |
+| 360d | 2025-11-12 | 3 | 37 | 4 | 8 | 22 | 207 |
+| last720d | 2024-11-17 | 6 | 64 | 4 | 23 | 37 | 317 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for caligula lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:20:09Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:24:47Z._
